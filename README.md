@@ -5,54 +5,54 @@ E-Commerce Sales Dashboard in Power BI delivering actionable insights into sales
 # E-Commerce Sales Dashboard
 
 ## Project Overview
-This project showcases an **E-Commerce Sales Dashboard** built using Power BI to track and analyze sales performance across multiple states, product categories, and payment modes.  
-The dashboard provides a clear view of revenue, profit trends, customer insights, and product performance, enabling business stakeholders to make data-driven decisions.
+This project presents an **E-Commerce Sales Dashboard** developed in Power BI to provide a clear, interactive view of business sales performance.  
+It tracks key performance indicators (KPIs) such as sales amount, quantity sold, profit, and average order value (AOV) while offering deep insights by state, customer, product category, and payment mode.  
+The dashboard is designed to help businesses make informed, data-driven decisions to optimize revenue and profitability.
 
 ---
 
-## Key Insights & Metrics
+## Key Metrics
 - **Total Sales Amount:** 438K  
 - **Total Quantity Sold:** 6K  
 - **Total Profit:** 37K  
 - **Average Order Value (AOV):** 121K  
 
-### Sales Analysis
-- **By State:** Maharashtra, Madhya Pradesh, Uttar Pradesh, Delhi, etc.  
-- **By Category:** Clothing, Electronics, Furniture  
-- **By Sub-Category:** Printers, Bookcases, Saree, Accessories, Tables  
-- **By Payment Mode:** COD, UPI, Debit Card, Credit Card  
-- **By Customer:** Top customers and their purchase amounts  
+---
 
-### Profit Analysis
-- **Profit by Month:** Identifies seasonal trends and high/low performing months  
-- **Profit by Sub-Category:** Highlights the most and least profitable product lines  
+## Insights & Analysis
+- **Sales by State:** Maharashtra, Madhya Pradesh, Uttar Pradesh, Delhi  
+- **Sales by Customer:** Top customers and their contribution to revenue  
+- **Quantity by Category:** Clothing, Electronics, Furniture  
+- **Quantity by Payment Mode:** COD, UPI, Debit Card, Credit Card  
+- **Profit by Month:** Seasonal and monthly profitability trends  
+- **Profit by Sub-Category:** Printers, Bookcases, Saree, Accessories, Tables  
 
 ---
 
 ## Dashboard Preview
-![E-Commerce Sales Dashboard](Dashboard for sales.png)
+![E-Commerce Sales Dashboard](Dashboard%20for%20sales.png)
 
 ---
 
 ## Purpose
-- Track **sales performance** and **profitability** over time.  
-- Identify top-performing **states, customers, and product categories**.  
-- Optimize **payment mode strategies** based on sales data.  
-- Enable faster, **data-driven decision-making** for business growth.  
+- Track **sales and profit performance** across different time periods and dimensions.  
+- Identify **high-performing states, products, and customers**.  
+- Understand **payment mode preferences** to improve payment strategy.  
+- Support **strategic decision-making** for marketing, inventory, and pricing.  
 
 ---
 
 ## Tools & Technologies
-- **Power BI** – Data visualization & dashboard creation  
-- **Excel / CSV** – Data source  
-- **Power Query** – Data cleaning & transformation  
-- **DAX** – Calculated measures for KPIs  
+- **Power BI** – Data visualization and interactive reporting  
+- **Excel / CSV** – Data sources  
+- **Power Query** – Data transformation and cleaning  
+- **DAX** – KPI and calculated measures  
 
 ---
 
 ## Outcome
-The E-Commerce Sales Dashboard provides:
-- Better understanding of **sales trends and patterns**.
-- Insights to **improve product strategy and marketing focus**.
-- Clear visualization of **seasonal and regional performance**.
-- Support for **increasing profitability** and **enhancing customer engagement**.
+The E-Commerce Sales Dashboard enables:
+- Faster identification of growth opportunities.  
+- Clear understanding of seasonal sales trends.  
+- Insights into profitable and underperforming product lines.  
+- Better customer targeting and retention strategies.
