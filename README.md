@@ -1,7 +1,7 @@
 # Data-Analysis-Dashboard-for-Sales
 E-Commerce Sales Dashboard in Power BI delivering actionable insights into sales, profit, and customer trends. Tracks KPIs such as total revenue, profit margin, and average order value, with breakdowns by state, category, payment mode, and customer segment to support strategic business decisions.
 
-# E-Commerce Sales Dashboard
+# Dashboard for sales.png
 
 ## Project Overview
 This project showcases an **E-Commerce Sales Dashboard** built using Power BI to track and analyze sales performance across multiple states, product categories, and payment modes.  
