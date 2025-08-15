@@ -29,7 +29,7 @@ The dashboard provides a clear view of revenue, profit trends, customer insights
 ---
 
 ## Dashboard Preview
-![E-Commerce Sales Dashboard](Screenshot%202025-08-15%20150724.png)
+![E-Commerce Sales Dashboard](Dashboard for sales.png)
 
 ---
 
